@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ForwardSecrecy</string>
+    <string name="hello_world">Hallå värld!</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="large_text">Stor text</string>
+    <string name="medium_text">Medium Text</string>
+    <string name="small_text">Liten Text</string>
+    <string name="execute_ECDH">ECDH utför</string>
+
+</resources>

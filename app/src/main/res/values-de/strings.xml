@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Folgenlosigkeit</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="large_text">Großer Text</string>
+    <string name="medium_text">Mittlerer Text</string>
+    <string name="small_text">Kleiner Text</string>
+    <string name="execute_ECDH">ECDH ausführen</string>
+
+</resources>
